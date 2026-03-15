@@ -22,3 +22,7 @@ Pandas
 pip install -r requirements.txt
 
 python main.py
+
+## Example Output
+
+![Scraper Result](output_example.png)
