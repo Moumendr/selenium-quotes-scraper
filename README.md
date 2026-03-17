@@ -25,4 +25,6 @@ python main.py
 
 ## Example Output
 
-![Sample Output](output_example.png)
+<p align="center">
+ <img src="output_example.png" width="800"/>
+</p>
